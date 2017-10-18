@@ -1,0 +1,67 @@
+{
+    "events" : [
+        {
+            "eventName" : "gkHack17",
+            "description" : "Colleborative Digital Solutions",
+            "venue" : "Libery Life, Johanessburg",
+            "seats" : 200,
+
+            "date" : {
+                "day": 1,
+                "month": "",
+                "year" : 2017
+            }
+
+
+        },
+        {
+            "eventName" : "Geekulcha Braai",
+            "description" : "Colleborative Digital Solutions",
+            "venue" : "Centurion",
+            "seats" : 20,
+
+            "date" : {
+                "day": 1,
+                "month": "",
+                "year" : 2017
+            }
+        },
+        {
+            "eventName" : "IoT Design Challenge",
+            "description" : "Solutions for Social Good",
+            "venue" : "The Innovation Hub",
+            "seats" : 30,
+
+            "date" : {
+                "day": 1,
+                "month": "",
+                "year" : 2017
+            }
+        },
+        {
+            "eventName" : "",
+            "description" : "Colleborative Digital Solutions",
+            "venue" : "",
+            "seats" : 20,
+
+            "date" : {
+                "day": 1,
+                "month": "",
+                "year" : 2017
+            }
+        },
+        {
+            "eventName" : "",
+            "description" : "Colleborative Digital Solutions",
+            "venue" : "",
+            "seats" : 20,
+            "date" : {
+                "day": 1,
+                "month": "",
+                "year" : 2017
+            }
+        }
+
+    ]
+
+}
